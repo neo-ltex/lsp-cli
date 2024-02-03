@@ -113,3 +113,14 @@ interface LspCliJson {
 - 1: An exception was thrown during the execution of `lsp-cli`.
 - 2: An invalid command-line argument was supplied to `lsp-cli`.
 - 3: The language server reported at least one diagnostic for the checked files.
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
