@@ -3,6 +3,7 @@
 		"editorconfig.editorconfig",
 		"github.vscode-pull-request-github",
 		"mathiasfrohlich.kotlin",
-		"vscjava.vscode-maven"
+		"neo-ltex.ltex",
+		"vscjava.vscode-maven",
 	]
 }
