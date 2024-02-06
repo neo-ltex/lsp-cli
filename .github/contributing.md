@@ -11,7 +11,7 @@ Thank you for considering contributing to [neo-ltex].
 ## Build
 
 ```sh
-mvn build
+mvn verify
 ```
 
 [git]: https://git-scm.com/
