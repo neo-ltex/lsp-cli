@@ -8,6 +8,13 @@ Thank you for considering contributing to [neo-ltex].
 
 1. Install [git] and [Apache Maven][maven]
 
+Set `JAVA_HOME` pointing to java 11
+
+```sh
+# e.g.
+export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+```
+
 ## Build
 
 ```sh
